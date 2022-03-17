@@ -16,8 +16,11 @@
 
 
 
-## :desktop: Tutors
-|고도희|민선아|박경준|설희관|정우진|정지원|홍예은|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="https://avatars.githubusercontent.com/u/81297662?s=96&v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/60880176?s=96&v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/75518683?s=96&v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/67581495?s=96&v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/81296203?s=96&v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/79279500?s=96&v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/60145951?s=70&v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/60145951?v=4" height=100/>|
-|[@DohuiKo](https://github.com/DohuiKo)|[@hotsun1508](https://github.com/hotsun1508)|[@Parkjju](https://github.com/Parkjju)|[@SeolHuiGwan9478](https://github.com/SeolHuiGwan9478)|[@JungWooJin97](https://github.com/JungWooJin97)|[@jiwongut](https://github.com/jiwongut)|[@4923](https://github.com/4923)|
+## :computer: Tutors
+|고도희|민선아|박경준|설희관|
+|:---:|:---:|:---:|:---:|
+|<img src="https://avatars.githubusercontent.com/u/81297662?s=96&v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/60880176?s=96&v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/75518683?s=96&v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/67581495?s=96&v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/81296203?s=96&v=4" height=100/>|
+|[@DohuiKo](https://github.com/DohuiKo)|[@hotsun1508](https://github.com/hotsun1508)|[@Parkjju](https://github.com/Parkjju)|[@SeolHuiGwan9478](https://github.com/SeolHuiGwan9478)|
+|정우진|정지원|홍예은|
+|<img src="https://avatars.githubusercontent.com/u/81296203?v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/79279500?v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/60145951?v=4" height=100/>|
+|[@JungWooJin97](https://github.com/JungWooJin97)|[@jiwongut](https://github.com/jiwongut)|[@4923](https://github.com/4923)|
