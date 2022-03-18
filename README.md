@@ -30,8 +30,8 @@ Ubuntu 18.04 LTS
 
 |고도희|민선아|박경준|설희관|
 |:---:|:---:|:---:|:---:|
-|<img src="https://avatars.githubusercontent.com/u/81297662?s=96&v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/60880176?s=96&v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/75518683?s=96&v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/67581495?s=96&v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/81296203?s=96&v=4" height=100/>|
+|<img src="https://avatars.githubusercontent.com/u/81297662?v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/60880176?v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/75518683?v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/67581495?v=4" height=100/>|
 |[@DohuiKo](https://github.com/DohuiKo)|[@hotsun1508](https://github.com/hotsun1508)|[@Parkjju](https://github.com/Parkjju)|[@SeolHuiGwan9478](https://github.com/SeolHuiGwan9478)|
-|정우진|정지원|홍예은|hufslion|
+|정우진|정지원|홍예은|멋쟁이사자처럼|
 |<img src="https://avatars.githubusercontent.com/u/81296203?v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/79279500?v=4" height=100/>|<img src="https://avatars.githubusercontent.com/u/60145951?v=4" height=100/>|<a href="https://github.com/hufslion10th"> <img src="https://user-images.githubusercontent.com/60145951/158914541-46bae0c2-28f7-46d7-80f4-6a7cb3e15579.png" height=100/> </a>
 |[@JungWooJin97](https://github.com/JungWooJin97)|[@jiwongut](https://github.com/jiwongut)|[@4923](https://github.com/4923)|[연혁](https://www.notion.so/hufsglobal/HUFS-LIKELION-550e654a2c254ed1bf8aecb62d552a75)|
