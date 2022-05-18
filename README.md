@@ -16,12 +16,10 @@
 ## :nut_and_bolt: Tech Stack
 
 ```bash
-# Google Chromebook
-IDE == Goorm IDE
-Python == 3.7.4
-Ubuntu 18.04 LTS
+# 개인 노트북
+IDE == VSCode
+Python >= 3.8
 ```
-- [Goorm IDE](https://ide.goorm.io)
 
 
 ## :computer: Tutors
