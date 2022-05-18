@@ -5,13 +5,13 @@
 |Week|Subject||
 |:---:|:---|:---|
 |1|[Git, GitHub 기초](https://drive.google.com/file/d/1hKBfik2nzzVlNw4Tovsy1nXbtEfp1DHj/view?usp=sharing)|이후 수업 및 소통은 모두 GitHub에서 진행|
-|2|Python 기초 문법|백준 문제풀이 과제|
-|3|GitHub 활용 및 GitHub Blog Hosting|매일 배운 바를 기록하는 TIL 시작|
-|4|Bootstrap으로 나만의 페이지 배포하기|Netlify를 이용한 Deploy|
-|5|Python을 실생활에서 활용하기 (1) |Tic-Tac-Toe 게임 만들기|
-|6|Python을 실생활에서 활용하기 (2) |Python으로 Excel 수정하기|
-|7|Python을 실생활에서 활용하기 (3) |Web Crawler로 웹 페이지에서 정보를 수집하기|
-|8|자유 미니프로젝트|이후 포트폴리오로 활용|
+|2|[Python 기초 문법](https://github.com/hufslion10th/ps-high/blob/main/풍생고/풍생고_파이썬기초.pptx)|백준 문제풀이 과제|
+|3|Python 보충|백준 문제풀이 과제|
+|4|웹 페이지의 뼈대, HTML 알아보기||
+|5|웹 페이지를 꾸며주는 CSS 알아보기 ||
+|6|github로 나만의 페이지를 만들기|github repo 생성 및 bootstrap 템플릿 활용|
+|7|나만의 페이지 꾸미고 배포하기|bootstrap 템플릿 편집 및 netlify 배포|
+|8|성과 공유회|나만의 페이지공유하고 어떻게 만들었는지 발표하기|
 
 ## :nut_and_bolt: Tech Stack
 
