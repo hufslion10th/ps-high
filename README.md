@@ -5,7 +5,7 @@
 |Week|Subject||
 |:---:|:---|:---|
 |1|[Git, GitHub 기초](https://drive.google.com/file/d/1hKBfik2nzzVlNw4Tovsy1nXbtEfp1DHj/view?usp=sharing)|이후 수업 및 소통은 모두 GitHub에서 진행|
-|2|[Python 기초 문법]([https://github.com/hufslion10th/ps-high/blob/main/풍생고/풍생고_파이썬기초.pptx](https://github.com/hufslion10th/ps-high/blob/e40ed7ded78803f07c865364d15b8ec603abf48f/%E1%84%91%E1%85%AE%E1%86%BC%E1%84%89%E1%85%A2%E1%86%BC%E1%84%80%E1%85%A9/%ED%92%8D%EC%83%9D%EA%B3%A0_%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B8%B0%EC%B4%88.pptx))|백준 문제풀이 과제|
+|2|[Python 기초 문법](https://github.com/hufslion10th/ps-high/blob/e40ed7ded78803f07c865364d15b8ec603abf48f/%E1%84%91%E1%85%AE%E1%86%BC%E1%84%89%E1%85%A2%E1%86%BC%E1%84%80%E1%85%A9/%ED%92%8D%EC%83%9D%EA%B3%A0_%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B8%B0%EC%B4%88.pptx)|백준 문제풀이 과제|
 |3|[Python 보충](https://github.com/hufslion10th/ps-high/blob/e40ed7ded78803f07c865364d15b8ec603abf48f/%E1%84%91%E1%85%AE%E1%86%BC%E1%84%89%E1%85%A2%E1%86%BC%E1%84%80%E1%85%A9/%E1%84%91%E1%85%AE%E1%86%BC%E1%84%89%E1%85%A2%E1%86%BC%E1%84%80%E1%85%A9_%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8A%E1%85%A5%E1%86%AB.pptx)|백준 문제풀이 과제|
 |4|웹 페이지의 뼈대, HTML 알아보기||
 |5|웹 페이지를 꾸며주는 CSS 알아보기 ||
